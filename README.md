@@ -1,1 +1,1 @@
-# ez2on_course
+# https://hadove.github.io/ez2on_course/
